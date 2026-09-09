@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./assets/github-cover.png" 
+    src="./asset/github-cover.png" 
     alt="Muhammad Kamran - Full Stack Web Developer"
     width="100%"
   />
