@@ -1,5 +1,7 @@
+<h1 align="center">Muhammad Kamran</h1>
+
 <p align="center">
-  <img src="./asset/github-cover.webp" alt="Muhammad Kamran - Full Stack Web Developer" width="100%">
+  <img src="https://github.com/bc220406446/bc220406446/raw/refs/heads/main/asset/github-cover.webp" width="100%">
 </p>
 
 # About Me:
