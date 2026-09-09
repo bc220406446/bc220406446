@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://github.com/bc220406446/bc220406446/raw/refs/heads/main/asset/github-cover.webp"
-    width="100%"
+    src="./asset/github-cover.webp"
     alt="Muhammad Kamran - Full Stack Web Developer"
+    width="100%"
   />
 </p>
 
