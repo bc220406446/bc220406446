@@ -1,17 +1,27 @@
 <p align="center">
   <img
+<<<<<<< HEAD
     src="https://github.com/bc220406446/bc220406446/raw/refs/heads/main/asset/github-cover.webp"
+=======
+    src="https://cdn.jsdelivr.net/gh/bc220406446/bc220406446@main/asset/github-cover.webp"
+    alt="Muhammad Kamran - Full Stack Web Developer"
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
     width="100%"
     alt="Muhammad Kamran - Full Stack Web Developer"
   />
 </p>
 
+<<<<<<< HEAD
 # 👋 About Me
+=======
+# About Me
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 I’m a Full Stack Web Developer passionate about building modern, scalable, and user-focused web applications. I work across frontend and backend development and specialize in WordPress, Shopify, e-commerce solutions, and AI-powered web applications and automation. I enjoy turning ideas into practical digital products, exploring new technologies, and building solutions that make businesses and everyday tasks smarter and more efficient.
 
 ---
 
+<<<<<<< HEAD
 # 🚀 What I Build
 
 - 🌐 Full Stack Web Applications
@@ -28,6 +38,24 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 # 💻 Tech Stack
 
 ## 🎨 Frontend
+=======
+# What I Build
+
+- Full Stack Web Applications
+- E-Commerce Platforms
+- AI-Powered Web Applications
+- Automation & API Integrations
+- WordPress & Shopify Solutions
+- Data-Driven Applications
+- REST APIs & Authentication Systems
+- Cloud-Deployed Applications
+
+---
+
+# Tech Stack
+
+## Frontend
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +77,11 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 
 ---
 
+<<<<<<< HEAD
 ## ⚙️ Backend
+=======
+## Backend
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -62,7 +94,11 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 
 ---
 
+<<<<<<< HEAD
 ## 🗄️ Databases
+=======
+## Databases
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,7 +108,11 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 
 ---
 
+<<<<<<< HEAD
 ## 🤖 AI & Machine Learning
+=======
+## AI & Machine Learning
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -85,7 +125,11 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 
 ---
 
+<<<<<<< HEAD
 ## 🛍️ CMS & E-Commerce
+=======
+## CMS & E-Commerce
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
@@ -94,7 +138,11 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 
 ---
 
+<<<<<<< HEAD
 ## ☁️ Cloud & Deployment
+=======
+## Cloud & Deployment
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -104,11 +152,16 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 
 ---
 
+<<<<<<< HEAD
 ## 🛠️ Tools & Development
+=======
+## Tools & Development
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<<<<<<< HEAD
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -124,6 +177,15 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 ---
 
 # 📊 GitHub Statistics
+=======
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+# GitHub Statistics
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=bc220406446&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true" height="170" />
@@ -152,4 +214,8 @@ I’m a Full Stack Web Developer passionate about building modern, scalable, and
 
 <p align="center">
   <i>🚀 Building modern solutions. Automating workflows. Turning ideas into impact.</i>
+<<<<<<< HEAD
 </p>
+=======
+</p>
+>>>>>>> 01d6e0f48819e88c8ff98a1d6af5508d539379ac
